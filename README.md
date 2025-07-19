@@ -11,7 +11,6 @@ I wanted to learn more about FPGA development and LCD interfaces, so I built thi
 ## Hardware Setup
 
 - FPGA: Xilinx Virtex 5 (Genesys board)
-- Display: 16x2 character LCD
 - Input: 8 switches + 1 push button
 
 ## Project Structure
