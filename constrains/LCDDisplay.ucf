@@ -1,0 +1,26 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = AG18;
+NET "E" LOC = AA5;
+NET "reset_n" LOC = E7;
+NET "debounce_en" LOC = G6;
+NET "RS" LOC = V7;
+NET "RW" LOC = W6;
+NET "button" LOC = G7;
+NET "data[7]" LOC = AD7;
+NET "data[6]" LOC = AC7;
+NET "data[5]" LOC = AC5;
+NET "data[4]" LOC = AB6;
+NET "data[3]" LOC = AC4;
+NET "data[2]" LOC = AB5;
+NET "data[1]" LOC = AB7;
+NET "data[0]" LOC = Y8;
+NET "data_btn[7]" LOC = G15;
+NET "data_btn[6]" LOC = G16;
+NET "data_btn[5]" LOC = K17;
+NET "data_btn[4]" LOC = H17;
+NET "data_btn[3]" LOC = H18;
+NET "data_btn[2]" LOC = K18;
+NET "data_btn[1]" LOC = L18;
+NET "data_btn[0]" LOC = J19;
