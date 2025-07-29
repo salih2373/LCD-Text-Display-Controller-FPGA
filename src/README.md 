@@ -1,0 +1,10 @@
+# Source Code
+
+This folder contains all Verilog HDL source files for the LCD controller.
+
+## Files:
+- `LCDDisplay.v` - Main top-level module
+- `InitLCD.v` - LCD initialization FSM
+- `WriteAsciiLCD.v` - ASCII character write controller
+- `write_lcd_block.v` - Low-level LCD write operations
+- `Mux2.v` - 2:1 multiplexer for bus control
